@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a9f472dc1153546a0e6bd34be1790a, type: 3}
+  m_Name: Red porsche
+  m_EditorClassIdentifier: 
+  modelName: Red porsche
+  description: The wonderful red car
+  prefab: {fileID: 8393397787131121959, guid: 14244907fcd826a419d201664a8f908d, type: 3}
+  parts:
+  - {fileID: 11400000, guid: 0d5fc4195b1b8c841aeaef68c675aeb9, type: 2}

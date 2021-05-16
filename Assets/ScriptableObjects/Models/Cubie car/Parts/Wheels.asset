@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3769a5b29ae2134d814b612d8c83c77, type: 3}
+  m_Name: Wheels
+  m_EditorClassIdentifier: 
+  modelName: Wheels
+  description: It isn't a wheels. It is a cylinders!
+  prefab: {fileID: 1929861513174387935, guid: 416c310449fe4d84bb5bfbb13c1ff121, type: 3}
+  parent: {fileID: 11400000, guid: 5023f773d40be5541abd94964b34261b, type: 2}
+  localPos: {x: 0, y: -0.15, z: 0}
+  localRot: {x: 0, y: 0, z: 0, w: 0}

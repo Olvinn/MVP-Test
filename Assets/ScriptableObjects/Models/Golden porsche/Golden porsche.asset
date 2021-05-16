@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a9f472dc1153546a0e6bd34be1790a, type: 3}
+  m_Name: Golden porsche
+  m_EditorClassIdentifier: 
+  modelName: The golden car
+  description: This is an expensive car
+  prefab: {fileID: 3058550335073247149, guid: 6d7013f04f56d3e499a6ca812e740429, type: 3}
+  parts:
+  - {fileID: 11400000, guid: 3be4a5c01a565f34ab9dd2e9cae4620e, type: 2}
+  - {fileID: 11400000, guid: 9f7d8481022e16e4e972c65a0ae03b90, type: 2}
