@@ -29,6 +29,7 @@ public class ModelsHelper : EditorWindow
             if (_db.models != null && _db.models.Count > 0)
                 if (GUILayout.Button("Clear models"))
                     _db.models.Clear();
+            so.ApplyModifiedProperties();
         }
     }
 
